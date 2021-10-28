@@ -1,0 +1,74 @@
+{ "data": [
+    {
+        "id":"qqg8jtk5iso",
+        "name":"Abstract Methodology",
+        "abstract":"hello this is an abstract",
+        "authors":["Salami Segun","Taiwo Janet"],
+        "tags":["#e-learning"],
+        "createdBy":"uqdecg701wb"
+    },
+    {
+        "id":"723hhs82ms",
+        "name":"Getters in Vue",
+        "abstract":"I'm getting this",
+        "authors":["Salami Segun","Taiwo Janet"],
+        "tags":["#react"," #lms"],
+        "createdBy":"hghbhsj83j3"
+    },
+    {
+        "id":"js7ks778hs6",
+        "name":"Programming Skill",
+        "abstract":"Programming is bae",
+        "authors":["Tosin Smith", "Dele Kadir"],
+        "tags":["#vue"," #lms"],
+        "createdBy":"jkdnkj321df"
+    },
+    {
+        "id":"758nfd5hd7h",
+        "name":"Breastfeeding",
+        "abstract":"The breast of God",
+        "authors":["Tosin Smith", "Dele Kadir"],
+        "tags":["#life"," #immortal"],
+        "createdBy":"77988921jkjd"
+    },
+    {
+        "id":"8geyn854vh5",
+        "name":"Days Old",
+        "abstract":"The Devil's Mosquito",
+        "authors":["Tosin Smith", "Dele Kadir"],
+        "tags":["#sin", "#corruption"],
+        "createdBy":"7867gb54ssd"
+    },
+    {
+        "id":"689mkkghvy6",
+        "name":"Life of God",
+        "abstract":"There is life",
+        "authors":["Tosin Smith", "Dele Kadir"],
+        "tags":["#tech","#lms","#money"],
+        "createdBy":"jdhlo7687sg"
+    },
+    {
+        "id":"hgtrexf87oi",
+        "name":"HTML Syntax",
+        "abstract":"lorem ipsum dolor amet",
+        "authors":["Tosin Smith", "Dele Kadir"],
+        "tags":["#dale"," #sihj","  #mount"],
+        "createdBy":"jui786gts45"
+    },
+    {
+        "id":"785jhjh543f",
+        "name":"Star girl",
+        "abstract":"Star girl issa goal",
+        "authors":["Tosin Smith", "Dele Kadir"],
+        "tags":["#star"," #girl","  #star"],
+        "createdBy":"785hjkk543f"
+    },
+    {
+        "id":"je792m2hdj9",
+        "name":"Don Makanaki",
+        "abstract":"Don is don",
+        "authors":["Tosin Smith", "Dele Kadir"],
+        "tags":["#don", "#tech"],
+        "createdBy":"r3232ddads3"
+    }
+]}
