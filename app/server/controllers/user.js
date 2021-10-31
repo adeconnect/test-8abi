@@ -7,8 +7,8 @@ const user = require('../services/user');
 router.get('/signup', (req, res) => {
   // add code to render the Signup Component, and pass in the programs and gradyears as props
   const error = req.flash("error");
-  res.render('Signup', { 
-    props1: school.getPrograms(), 
+  res.render('Signup', {
+    props1: school.getPrograms(),
     props2: school.getGradYears(),
     props3: error,
     user: req.session.user
