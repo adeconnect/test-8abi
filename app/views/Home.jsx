@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from "react";
 import { Jumbotron, Button, Container, Row, Col, Card } from 'react-bootstrap';
+//import Jumbotron from 'react-bootstrap/Jumbotron'
 import Layout from './shared/Layout';
 
 const Home = (props) => {
@@ -8,12 +9,12 @@ const Home = (props) => {
         <Layout user={props.user}>
             <main className="mx-auto">
 
-                <div>
-                    <h1>Project Explorer</h1>
-                    <p>Project Explorer is a repository for final year projects across all departments at your institution. You can submit your project and search projects submitted by others to learn from.</p>
-                    <Button variant="primary" href="/signup" className="mr-2">Get Started</Button>
-                    <Button variant="secondary" href="/login">Login</Button>
-                    </div>
+            <Jumbotron>
+                  <h1>Project Explorer</h1>
+                  <p>Project Explorer is a repository for final year projects across all departments at your institution. You can submit your project and search projects submitted by others to learn from.</p>
+                  <Button variant="primary" href="/signup" className="mr-2">Get Started</Button>
+                  <Button variant="secondary" href="/login">Login</Button>
+              </Jumbotron>
 
 
                 <Container>
